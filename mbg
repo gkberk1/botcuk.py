@@ -46,10 +46,6 @@ async def andora(ctx):
     await ctx.send("https://tr.wikipedia.org/wiki/Andorra3")
 
 
-@bot.command()
-async def kerim(ctx):
-    await ctx.send("FenasiKerim")
-    
 
 
 
